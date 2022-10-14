@@ -1,0 +1,18 @@
+---
+projectType: 'project'
+date: "2019-07"
+date2: "Now"
+title: "Portfolio"
+minibio: "The process behind this very portfolio you're looking at."
+description: "The process behind this very portfolio you're looking at."
+tags: ['design','front-end']
+cover: './cover.png'
+---
+
+<div class="tc silver mv7">
+    <div class="f1">
+        🚧
+    </div>
+ 
+    Work in progress. Come back later! ;)
+</div>
